@@ -1,0 +1,11 @@
+package cspkg;
+
+message AccountLoginReq {
+  required fixed32 account = 1; // ÕËºÅ
+  optional string session_key = 2; // ¼øÈ¨key
+}
+
+message AccountLoginRes {
+  required fixed32 account =1; // ÕËºÅ
+  required int32 result = 2; // ·µ»ØÂë
+}

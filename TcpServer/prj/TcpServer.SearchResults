@@ -1,0 +1,2 @@
+---- kMaxLogMessageLen Matches (1 in 0 files) ----
+Logging.h (e:\个人项目\tcpserver\extra\glog):  static const size_t kMaxLogMessageLen;
