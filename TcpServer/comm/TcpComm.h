@@ -58,7 +58,7 @@ typedef unsigned long long ULLONG;
 /***系统常量参数定义***/
 
 // 连接IP和Port
-const char CONNECT_IP[] = "10.20.206.61";
+const char CONNECT_IP[] = "122.226.109.90";
 const unsigned short CONNECT_PORT = 8888;
 
 // tcpclient测试连接数量
